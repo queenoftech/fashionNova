@@ -34,3 +34,4 @@ check build status
 ''', subject: 'build status', to: 'devopsconnection@gmail.com'
     }    
     }
+}
