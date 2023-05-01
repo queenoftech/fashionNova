@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Nova</finalName>
+		<finalName>Nova-app</finalName>
 		
 		<plugins>
 			<plugin>
